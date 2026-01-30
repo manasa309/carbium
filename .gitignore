@@ -31,3 +31,4 @@ ios/Pods/
 # Misc
 .metadata
 devtools_options.yaml
+android/app/google-services.json
